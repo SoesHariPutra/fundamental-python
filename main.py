@@ -1,3 +1,9 @@
+from modularization import hitung_segitiga, hitung_harga_diskon
+
+print('Main', hitung_segitiga(10, 3))
+print('Main', hitung_harga_diskon(100000, 0.1))
+exit(0)
+
 """
 Komentar panjang
 """
